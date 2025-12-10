@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Workflow Studio",
+  "description": "A production-grade visual editor for Universal Integration workflows using React Flow, supporting AI Agents, SDK Reflectors, and Parallel execution.",
+  "requestFramePermissions": []
+}
